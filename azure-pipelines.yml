@@ -31,5 +31,5 @@ steps:
     secretType: 'dockerRegistry'
     containerRegistryType: 'Azure Container Registry'
     azureSubscriptionEndpointForSecrets: 'Towards-AzurePortal'
-    azureContainerRegistry: 'mylabacr13.azurecr.io'
+    azureContainerRegistry:  'mylabacr13.azurecr.io'
     forceUpdate: false
